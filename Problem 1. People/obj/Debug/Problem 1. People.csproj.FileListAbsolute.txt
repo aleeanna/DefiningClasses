@@ -1,0 +1,5 @@
+D:\Softuni\Object oriented programming OOP\Homework Solutions\DefiningClasses\Problem 1. People\bin\Debug\Problem_1.People.exe.config
+D:\Softuni\Object oriented programming OOP\Homework Solutions\DefiningClasses\Problem 1. People\bin\Debug\Problem_1.People.exe
+D:\Softuni\Object oriented programming OOP\Homework Solutions\DefiningClasses\Problem 1. People\bin\Debug\Problem_1.People.pdb
+D:\Softuni\Object oriented programming OOP\Homework Solutions\DefiningClasses\Problem 1. People\obj\Debug\Problem_1.People.exe
+D:\Softuni\Object oriented programming OOP\Homework Solutions\DefiningClasses\Problem 1. People\obj\Debug\Problem_1.People.pdb
